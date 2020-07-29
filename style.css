@@ -1,0 +1,27 @@
+body{
+	text-align:center;
+}
+.container{
+	width:300px;
+	height:330px;
+	background:black;
+	margin:auto;
+}
+.container h1{
+	color:white;
+}
+.layar input[name=textview]{
+	padding:20px;
+	margin-top:20px;
+	background:#3CBC8D;
+	border:4px solid white;
+}
+
+.tombol{
+	flex-direction:row;
+}
+.tombol input{
+	padding:5px;
+	margin:8px 5px 0px 0px;
+	width:60px;
+}
